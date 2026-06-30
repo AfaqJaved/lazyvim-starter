@@ -22,6 +22,10 @@ return {
       {
         name = "personal",
         path = "~/Desktop/projects/Notes/",
+        {
+          name = "dotCMS",
+          path = "~/Users/afaqjaved/Documents/devrel-content-standard",
+        },
       },
     },
 
